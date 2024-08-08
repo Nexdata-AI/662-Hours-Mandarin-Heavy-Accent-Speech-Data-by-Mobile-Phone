@@ -4,7 +4,7 @@
 ## Description
 It collects 2,034 local Chinese from 26 provinces like Henan, Shanxi, Sichuan, Hunan, Fujian, etc. It is mandarin speech data with heavy accent. The recoring contents are finance and economics, entertainment, policy, news, TV, and movies.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/44?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/44?source=Github
 
 
 ## Format
